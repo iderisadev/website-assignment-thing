@@ -12,6 +12,7 @@ h1 {
   font-size: 35px;
   font-weight: normal;
   margin-top: 5px;
+  font-color: rgb(66, 161, 11);
 }
 
 /* Applies to all elements with <... class="someclass"> specified. */
