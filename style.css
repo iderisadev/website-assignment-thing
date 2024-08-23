@@ -9,12 +9,18 @@ body {
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
-  font-size: 35px;
+  font-size: 50px;
   text-align: center;
   font-weight: normal;
   margin-top: 5px;
   color: red;
 }
+h2 {
+  font-size: 45px;
+  text-align: center;
+  
+}
+
 p {
   background: rgb(124 ,185, 255);
   text-align: center;
@@ -32,7 +38,17 @@ details {
   text-align: center;
   font-size: 25px;
 }
-
+ol {
+  text-align: center;
+  font-size: 30px;
+}
+li {
+  text-align: center;
+}
+.matt{
+  text-align: center;
+  font-size: 33px;
+}
 
 
 
